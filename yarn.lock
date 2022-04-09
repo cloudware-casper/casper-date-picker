@@ -294,6 +294,13 @@ ink-ripple@alex-saunders/ink-ripple:
   version "0.0.0"
   resolved "https://codeload.github.com/alex-saunders/ink-ripple/tar.gz/88e4d753bba9f7b57b372c62a4517bb091c7f713"
 
+lit-element@^2.0.0:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/lit-element/-/lit-element-2.5.1.tgz#3fa74b121a6cd22902409ae3859b7847d01aa6b6"
+  integrity sha512-ogu7PiJTA33bEK0xGu1dmaX5vhcRjBXCFexPja0e7P7jqLhTpNKYRPmE+GmiCaRVAbiQKGkUgkh/i6+bh++dPQ==
+  dependencies:
+    lit-html "^1.1.1"
+
 lit-element@^3.0.0-rc.2:
   version "3.0.0-rc.4"
   resolved "https://registry.yarnpkg.com/lit-element/-/lit-element-3.0.0-rc.4.tgz#71abe4e38bbcafb9e8977798121634db331868e4"
@@ -301,6 +308,11 @@ lit-element@^3.0.0-rc.2:
   dependencies:
     "@lit/reactive-element" "^1.0.0-rc.2"
     lit-html "^2.0.0-rc.4"
+
+lit-html@^1.1.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-1.4.1.tgz#0c6f3ee4ad4eb610a49831787f0478ad8e9ae5e0"
+  integrity sha512-B9btcSgPYb1q4oSOb/PrOT6Z/H+r6xuNzfH4lFli/AWhYwdtrgQkQWBbIc6mdnf6E2IL3gDXdkkqNktpU0OZQA==
 
 lit-html@^2.0.0-rc.4:
   version "2.0.0-rc.5"
@@ -318,7 +330,7 @@ lit@^2.0.0-rc.2:
     lit-element "^3.0.0-rc.2"
     lit-html "^2.0.0-rc.4"
 
-moment@^2.24.0:
-  version "2.25.3"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.25.3.tgz#252ff41319cf41e47761a1a88cab30edfe9808c0"
-  integrity sha512-PuYv0PHxZvzc15Sp8ybUCoQ+xpyPWvjOuK72a5ovzp2LI32rJXOiIfyoFoYvG3s6EwwrdkMyWuRiEHSZRLJNdg==
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==

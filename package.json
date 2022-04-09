@@ -12,6 +12,6 @@
     "@polymer/paper-input": "^3.x",
     "@polymer/polymer": "^3.x",
     "@vaadin/vaadin-date-picker": "^4.x",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
